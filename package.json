@@ -1,0 +1,19 @@
+{
+  "name": "parser-microservice",
+  "version": "1.0.0",
+  "description": "Request Header Parser Microservice",
+  "main": "app.js",
+  "repository": "https://github.com/kelvinabella/parser-microservice",
+  "author": "Kelvin Abella",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "dependencies": {
+    "express": "^4.15.3",
+    "useragent": "^2.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
