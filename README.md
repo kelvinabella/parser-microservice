@@ -22,7 +22,7 @@ User Story: I can get the IP address, language and operating system for my brows
 ```
 
 ```
-Usage: https://localhost/api/whoami/
+Usage: https://localhost:3000/api/whoami/
 ```
 
 ## License
